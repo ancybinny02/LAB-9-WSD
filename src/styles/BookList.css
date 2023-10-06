@@ -1,0 +1,26 @@
+.search-bar {
+    margin: 20px;
+
+}
+
+.search-bar input {
+    width: 25%;
+    padding: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 1rem;
+}
+
+.book-list {
+   
+    margin-left: 50px;
+    /* background-color: red; */
+    display: flex;
+    max-width: 90%;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+
+
+}
